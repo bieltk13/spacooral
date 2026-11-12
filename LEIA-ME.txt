@@ -1,0 +1,40 @@
+SPAÇO ORAL ODONTOLOGIA — SITE ONE PAGE
+
+1. COMO ABRIR
+   Abra o arquivo index.html no navegador (Chrome, Firefox, Opera etc.).
+   Não é necessário instalar Node, executar npm nem configurar servidores.
+
+2. COMO PUBLICAR
+   Envie o conteúdo desta pasta para a raiz de uma hospedagem estática,
+   como GitHub Pages, Cloudflare Pages, Netlify ou uma VPS com Nginx.
+   Publique o index.html com a pasta assets/ e os arquivos legais.
+
+3. O QUE FUNCIONA
+   - Menu responsivo, com âncoras para as seções;
+   - Botões de WhatsApp com número e textos pré-preenchidos;
+   - Links para Instagram, Facebook e Google Maps;
+   - Mapa ilustrado com link funcional para abrir o Google Maps;
+   - Páginas de Política de Privacidade e Termos de Uso;
+   - Layout desktop, tablet e celular, com ícones SVG locais.
+
+4. O QUE PRECISA SER VALIDADO COM O CLIENTE ANTES DE PUBLICAR
+   - Confirmação do WhatsApp, endereço e horário;
+   - Foto e logotipo oficial em alta resolução (logo atual é uma recriação vetorial);
+   - As fotos são recortes da PRÉVIA GERADA POR IA e NÃO representam fotos reais da clínica;
+   - Lista de tratamentos efetivamente ofertados (cards são exemplos do layout);
+   - Nome, imagem, qualificações e CRO de cada profissional;
+   - Registro da pessoa jurídica e responsável técnico;
+   - Avaliações verdadeiras do perfil Google, se houver autorização para exibi-las;
+   - Revisão legal das páginas de privacidade e termos;
+   - Revisão de publicidade profissional conforme as regras do CFO.
+
+5. DADOS UTILIZADOS NO DEMO
+   Endereço: Rua Venezuela, 457 — Pacaembu, Cascavel/PR.
+   WhatsApp: (45) 99918-6160.
+   Instagram: @spacooralodontologia.
+
+As imagens recortadas preservam a aparência do mockup para fidelidade visual.
+Se o cliente fornecer fotografias reais, substitua os .webp em assets/images
+mantendo os nomes. Os cartões e a recepção foram gerados com IA.
+
+Criação: Protótipo demonstrativo para avaliação comercial, novembro/2026.
